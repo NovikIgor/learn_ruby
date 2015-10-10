@@ -1,2 +1,3 @@
 # learn_ruby
-Just  a new repository
+
+Hello World. Just a my first repository on GitHub !!!
